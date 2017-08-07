@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sam-young/democrazy/issues"
   },
-  "homepage": "https://github.com/sam-young/democrazy#readme"
+  "homepage": "https://github.com/sam-young/democrazy#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
